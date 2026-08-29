@@ -8,6 +8,7 @@ namespace ConsoleApp2
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the C# Console Application!");
+            Console.WriteLine("Hello");
         }
     }
 }
