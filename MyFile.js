@@ -26,6 +26,8 @@ function func(){
            <p style="font-size:15px;color:white">gancheerithrinadharao@gmail.com</p>
            </h3>
         </div>
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="thrinadha-rao-gancheeri-09bb9226a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/thrinadha-rao-gancheeri-09bb9226a?trk=profile-badge">Thrinadha Rao gancheeri</a></div>
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="thrinadha-rao-gancheeri-09bb9226a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/thrinadha-rao-gancheeri-09bb9226a?trk=profile-badge">Thrinadha Rao gancheeri</a></div>
         <h1>${xhr.response['items'][1]['data']['accounts'][0]['userPrincipalName']}</h1>`;
         id.insertAdjacentHTML('beforeend',html);
     } else {
