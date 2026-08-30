@@ -1,0 +1,272 @@
+{
+	"items": [
+		{
+			"name": "userActions",
+			"data": []
+		},
+		{
+			"name": "UserProfileInfo",
+			"data": {
+				"@odata.context": "https://substrate.office.com/profileb2/v2.0/users/00034001-51ec-cc9e-0000-000000000000@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa/$metadata#profile(accounts(),addresses(),anniversaries(),directoryExtensionAttributes(),educationalActivities(),names(),emails(),notes(),interests(),languages(),phones(),positions(),projects(),responsibilities(),skills(),topics(),webAccounts(),websites(),awards(),publications(),patents(),certifications(),extensions(),photos(),profileVideoMetadata(),summary(),directories())",
+				"profileId": "profileId",
+				"freshnessTag": "FT-PAPI-View-6f9b42db677e4bf38368c3e910a0726e",
+				"lastModifiedDateTime": "2023-07-02T04:23:53.9950971Z",
+				"activities": [],
+				"accounts": [
+					{
+						"ageGroup": "Adult",
+						"countryCode": "IN",
+						"userPrincipalName": "trinadh45@outlook.com",
+						"externalDirectoryObjectId": "",
+						"alias": "",
+						"exchangeAccountType": null,
+						"exchangeAccountTypeDetails": null,
+						"cid": 7021049451655087000,
+						"puid": 914799343750302,
+						"userType": null,
+						"accountEnabled": null,
+						"isSipEnabled": null,
+						"userPersona": null,
+						"searchableByProfile": null,
+						"isTeamsForLifeUser": null,
+						"allowedAudiences": "me",
+						"createdDateTime": "2022-12-31T13:41:45.787153Z",
+						"lastModifiedDateTime": "2023-02-09T04:15:49.3210852Z",
+						"id": "27d3c5ae-eb39-4024-8243-9ec95da38315",
+						"isSearchable": false,
+						"preferredLanguageTag": {
+							"locale": "en-US",
+							"displayName": "English (United States)"
+						},
+						"originTenantInfo": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "MSA",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "MSA",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"addresses": [],
+				"anniversaries": [
+					{
+						"type": "birthday",
+						"date": "2001-08-28T00:00:00Z",
+						"displayName": null,
+						"allowedAudiences": "me",
+						"createdDateTime": "2023-02-09T04:15:49.3210852Z",
+						"lastModifiedDateTime": "2023-02-09T04:15:49.3210852Z",
+						"id": "89d71504-a90d-4cfc-8a92-0a6f9b0aa26a",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "MSA",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "MSA",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"directoryExtensionAttributes": [],
+				"educationalActivities": [],
+				"names": [
+					{
+						"displayName": "",
+						"first": "trinadh",
+						"initials": null,
+						"last": "rao",
+						"languageTag": null,
+						"maiden": null,
+						"middle": null,
+						"nickname": null,
+						"suffix": null,
+						"title": null,
+						"allowedAudiences": "organization, federatedOrganizations",
+						"createdDateTime": "2022-12-31T13:41:45.787153Z",
+						"lastModifiedDateTime": "2022-12-31T13:41:45.787153Z",
+						"id": "5dacf4b2-9df2-496c-ae76-3b50a488dcb2",
+						"isSearchable": false,
+						"pronunciation": null,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "MSA",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "MSA",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"emails": [
+					{
+						"address": "trinadh45@outlook.com",
+						"displayName": null,
+						"type": "personal",
+						"allowedAudiences": "me",
+						"createdDateTime": "2026-08-30T11:06:09.4869676Z",
+						"lastModifiedDateTime": "2026-08-30T11:06:09.4869676Z",
+						"id": "8f25bc1c-9e32-47ea-b13c-2535250c31df",
+						"isSearchable": false,
+						"createdBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"inference": null,
+						"lastModifiedBy": {
+							"user": null,
+							"application": {
+								"displayName": "Directory",
+								"id": null
+							},
+							"device": null
+						},
+						"source": {
+							"type": [
+								"MSA"
+							]
+						},
+						"sources": [
+							{
+								"id": "9a3e0ce2-cf4b-477e-b3b3-df246318e251"
+							}
+						]
+					}
+				],
+				"notes": [],
+				"interests": [],
+				"languages": [],
+				"phones": [],
+				"positions": [],
+				"projects": [],
+				"responsibilities": [],
+				"skills": [],
+				"topics": [],
+				"webAccounts": [],
+				"websites": [],
+				"awards": [],
+				"publications": [],
+				"patents": [],
+				"certifications": [],
+				"extensions": [],
+				"photos": [],
+				"profileVideoMetadata": {
+					"profileVideoUrl": null,
+					"allowedAudiences": "organization",
+					"createdDateTime": "2023-01-22T05:40:14.9463121Z",
+					"lastModifiedDateTime": "2023-01-22T05:40:14.9463121Z",
+					"id": "24db33d3-167a-4c3e-9466-68c0a548c177",
+					"isSearchable": false,
+					"createdBy": {
+						"user": null,
+						"application": null,
+						"device": null
+					},
+					"inference": null,
+					"lastModifiedBy": {
+						"user": null,
+						"application": null,
+						"device": null
+					},
+					"source": {
+						"type": [
+							"User"
+						]
+					},
+					"sources": [
+						{
+							"id": "46a57efc-33f8-4eec-a512-b90039ad6187"
+						}
+					]
+				},
+				"summary": null,
+				"directories": []
+			}
+		},
+		{
+			"name": "PeopleHighlights",
+			"data": []
+		},
+		{
+			"name": "CommunicationMemory",
+			"data": {}
+		},
+		{
+			"name": "Pronouns",
+			"data": []
+		},
+		{
+			"name": "PeopleAgentFavoritePeople",
+			"data": [
+				"00034001-51ec-cc9e-0000-000000000000"
+			]
+		},
+		{
+			"name": "ConnectorsData",
+			"data": []
+		}
+	]
+}
